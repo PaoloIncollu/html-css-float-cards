@@ -10,7 +10,6 @@
 }
 
 body{
-
     width: 1500px;
 }
 
@@ -51,9 +50,10 @@ body{
 
     background-color: black;
     margin-right:20px;
+    margin-left: 20px;
     margin-bottom: 30px;
     float: left;
-    width: calc((100% / 3) - 20px);
+    width: calc((100% / 3) - 40px);
     
      
 }
